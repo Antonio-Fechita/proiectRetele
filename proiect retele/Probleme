@@ -1,0 +1,63 @@
+# Dat fiind un sir de numere intregi care se citesc de la tastatura pana la aparitia numarului 0 sa se gaseasca cel mai mic si cel mai mare numar din sir:
+
+Exemplu:
+
+Input: 
+3 45 -14 37 82
+Output: 
+-14 82
+
+# Dat fiind un numar intreg citit de la tastatura se doreste sa se afle daca este un numar prim. In acest caz afisati "prim", altfel "neprim"
+Exemplul 1:
+
+Input: 
+32
+Output: 
+neprim
+
+Exemplul 2:
+
+Input: 
+5
+Output: 
+prim
+
+# Pentru un tablou bidimensional cu n linii si n coloane calculati suma elementelor de pe diagonala principala. N si cele n*n numere sunt citite de la tastatura
+
+Exemplul 1:
+
+Input:
+2
+1 8
+9 3
+Output:
+4
+
+Exemplul 2:
+
+Input:
+3
+1 3 5
+9 8 6
+2 4 7
+Output:
+16
+
+# Se citesc n numere de la tastatura. Sa se sorteze descrescator numerele
+Exemplu:
+
+Input:
+4
+1 34 -8 2
+Output:
+34 2 1 -8
+
+# Date fiind 3 numere naturale citite de la tastatura sa se afiseze suma lor
+Exemplu:
+
+Input:
+3 10 7
+Output:
+20
+
+#
